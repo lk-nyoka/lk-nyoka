@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20I'm%20Lindokuhle%20Nyoka⚡&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Lindokuhle%20Nyoka&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+<p align="center">
+  <strong>Electrical Engineering Student | Machine Learning | Data</strong>
 </p>
 
 <p align="center">
