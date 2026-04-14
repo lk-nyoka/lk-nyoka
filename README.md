@@ -78,11 +78,23 @@ I’m currently transitioning into **Machine Learning + Data Engineering**, comb
 
 ---
 
-## 🎯 What I'm Building Towards
+## 📊 Current Progress
+✅ **Completed**
+- Data Cleaning — 3 projects
+- Exploratory Data Analysis — 3 projects
+- Intro to Machine Learning — Kaggle certified ✅
 
-- Advanced Machine Learning models  
-- Engineering + Data combined systems  
-- Industry-level portfolio projects  
+🔲 **In Progress**
+- Advanced Visualisation
+- SQL for Data Science
+- Building ML models on real datasets
+
+---
+
+## 🏆 Certificates
+<p align="left">
+  <img src="https://raw.githubusercontent.com/lk-nyoka/lk-nyoka/main/certificates/kaggle_intro_ml.png" width="400"/>
+</p>
 
 ---
 
