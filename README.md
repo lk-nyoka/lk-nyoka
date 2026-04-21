@@ -4,7 +4,6 @@
 <p align="center">
   <strong>Electrical Engineering Student | Machine Learning | Data</strong>
 </p>
-
 <p align="center">
   <a href="https://github.com/lk-nyoka">
     <img height="50" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/>
@@ -17,12 +16,11 @@
 ---
 
 ## 🚀 About Me
-
 🎓 Electrical Engineering Student  
 📊 Aspiring Machine Learning Engineer  
 🛠️ I build systems, analyze data, and turn ideas into real projects  
 
-I’m currently transitioning into **Machine Learning + Data Engineering**, combining:
+I'm currently transitioning into **Machine Learning + Data Engineering**, combining:
 - Engineering problem-solving  
 - Data-driven thinking  
 - Real-world project building  
@@ -32,17 +30,20 @@ I’m currently transitioning into **Machine Learning + Data Engineering**, comb
 ## 📊 Current Progress
 
 ✅ **Completed**
-- Data Cleaning — 3 projects  
-- Exploratory Data Analysis — 3 projects  
+- Data Cleaning — 3 projects
+- Exploratory Data Analysis — 3 projects
+- Intro to Machine Learning — Kaggle certified
+- Intro to SQL — Kaggle certified
+- Advanced SQL — Kaggle certified
 
 🔲 **In Progress**
-- Statistics / Intro to Machine Learning — 69% remaining  
-- Building ML models on real datasets  
+- SQL project in VS Code
+- Advanced Visualisation
+- Building ML models on real datasets
 
 ---
 
 ## 🚀 Some Tools I Have Used and Learned
-
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
@@ -58,49 +59,40 @@ I’m currently transitioning into **Machine Learning + Data Engineering**, comb
 ## 📂 Featured Projects
 
 ### 📊 Data Analysis
-- Supplement Sales EDA  
-- Movie Dataset EDA  
-- E-Commerce Sales & Profit Analysis  
+- Supplement Sales EDA
+- Movie Dataset EDA
+- E-Commerce Sales & Profit Analysis
+- Customer Personality Analysis
 
 ### 🧹 Data Cleaning
-- NYC Airbnb Data Cleaning  
-- Retail Store Data Cleaning  
-- Cafe Sales Data Cleaning  
+- NYC Airbnb Data Cleaning
+- Retail Store Data Cleaning
+- Cafe Sales Data Cleaning
+- Messy E-Commerce Data Cleaning
 
 ### 🤖 Machine Learning
-- Stock ML Prediction (in progress)  
+- Customer Segmentation App — K-Means + Streamlit
+- Stock ML Prediction (in progress)
 
 ### 💻 Applications
-- Weather App  
-- Calculator App  
-- Loadshedding Flask App  
-- Hospital Management System  
-
----
-
-## 📊 Current Progress
-✅ **Completed**
-- Data Cleaning — 3 projects
-- Exploratory Data Analysis — 3 projects
-- Intro to Machine Learning — Kaggle certified ✅
-
-🔲 **In Progress**
-- Advanced Visualisation
-- SQL for Data Science
-- Building ML models on real datasets
+- Weather App
+- Calculator App
+- Loadshedding Flask App
+- Hospital Management System
 
 ---
 
 ## 🏆 Certificates
 <p align="left">
-  <img src="https://raw.githubusercontent.com/lk-nyoka/lk-nyoka/main/certificates/kaggle_intro_ml.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/lk-nyoka/lk-nyoka/main/certificates/kaggle_intro_ml.png" width="370"/>
+  <img src="https://raw.githubusercontent.com/lk-nyoka/lk-nyoka/main/certificates/kaggle_intro_sql.png" width="370"/>
+  <img src="https://raw.githubusercontent.com/lk-nyoka/lk-nyoka/main/certificates/kaggle_advanced_sql.png" width="370"/>
 </p>
 
 ---
 
 ## ⚡ Fun Fact
-
-I don’t just learn — I **build and ship projects**.
+I don't just learn — I **build and ship projects**.
 
 ---
 
