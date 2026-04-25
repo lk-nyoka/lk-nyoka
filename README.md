@@ -30,16 +30,17 @@ I'm currently transitioning into **Machine Learning + Data Engineering**, combin
 ## 📊 Current Progress
 
 ✅ **Completed**
-- Data Cleaning — 3 projects
+- Data Cleaning — 4 projects
 - Exploratory Data Analysis — 3 projects
+- Data Visualisation — 1 project
+- SQL Business Analysis — Supplement Sales project
 - Intro to Machine Learning — Kaggle certified
 - Intro to SQL — Kaggle certified
 - Advanced SQL — Kaggle certified
 
 🔲 **In Progress**
-- SQL project in VS Code
-- Advanced Visualisation
-- Building ML models on real datasets
+- Machine Learning with Scikit-learn
+- End-to-end portfolio project
 
 ---
 
@@ -58,8 +59,8 @@ I'm currently transitioning into **Machine Learning + Data Engineering**, combin
 
 ## 📂 Featured Projects
 
-### 📊 Data Analysis
-- Supplement Sales EDA
+### 📊 Data Analysis & Visualisation
+- Supplement Sales — EDA, Visualisation & SQL Analysis
 - Movie Dataset EDA
 - E-Commerce Sales & Profit Analysis
 - Customer Personality Analysis
