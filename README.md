@@ -98,13 +98,12 @@ I'm currently transitioning into **Machine Learning + Data Engineering**, combin
 
 ## 🏆 Certificates
 <p align="left">
-  <img src="https://raw.githubusercontent.com/lk-nyoka/lk-nyoka/main/certificates/kaggle_intro_ml.png" width="370"/>
-  <img src="https://raw.githubusercontent.com/lk-nyoka/lk-nyoka/main/certificates/kaggle_intermediate_ml.png" width="370"/>
-  <img src="https://raw.githubusercontent.com/lk-nyoka/lk-nyoka/main/certificates/kaggle_intro_sql.png" width="370"/>
-  <img src="https://raw.githubusercontent.com/lk-nyoka/lk-nyoka/main/certificates/kaggle_advanced_sql.png" width="370"/>
-  <img src="https://raw.githubusercontent.com/lk-nyoka/lk-nyoka/main/certificates/kaggle_feature_engineering.png" width="370"/>
+  <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/kaggle_intro_ml.png" width="370"/>
+  <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/kaggle_intermediate_ml.png" width="370"/>
+  <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/kaggle_intro_sql.png" width="370"/>
+  <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/kaggle_advanced_sql.png" width="370"/>
+  <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/kaggle_feature_engineering.png" width="370"/>
 </p>
-
 ---
 
 ## ⚡ Fun Fact
