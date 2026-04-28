@@ -51,15 +51,18 @@ I'm currently transitioning into **Machine Learning + Data Engineering**, combin
 ---
 
 ## 🚀 Some Tools I Have Used and Learned
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-</p>
+
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/></td>
+  </tr>
+</table>
 
 ---
 
@@ -98,13 +101,12 @@ I'm currently transitioning into **Machine Learning + Data Engineering**, combin
 
 ## 🏆 Certificates
 <p align="left">
-  <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/kaggle_intro_ml.png" width="370"/>
-  <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/kaggle_intermediate_ml.png" width="370"/>
-  <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/kaggle_intro_sql.png" width="370"/>
-  <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/kaggle_advanced_sql.png" width="370"/>
-  <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/kaggle_feature_engineering.png" width="370"/>
+  <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/Lindokuhle%20Nyoka%20-%20Intro%20to%20Machine%20Learning.png" width="370"/>
+  <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/Lindokuhle%20Nyoka%20-%20Intermediate%20Machine%20Learning.png" width="370"/>
+  <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/Lindokuhle%20Nyoka%20-%20Feature%20Engineering.png" width="370"/>
+  <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/Lindokuhle%20Nyoka%20-%20Intro%20to%20SQL.png" width="370"/>
+  <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/Lindokuhle%20Nyoka%20-%20Advanced%20SQL.png" width="370"/>
 </p>
----
 
 ## ⚡ Fun Fact
 I don't just learn — I **build and ship projects**.
