@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Lindokuhle%20Nyoka&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <p align="center">
-  <strong>Electrical Engineering Student | Machine Learning | Data</strong>
+  <strong>Electrical Engineering Student | Machine Learning | Data Science</strong>
 </p>
 <p align="center">
   <a href="https://github.com/lk-nyoka">
@@ -16,14 +16,14 @@
 ---
 
 ## 🚀 About Me
-🎓 Electrical Engineering Student  
-📊 Aspiring Machine Learning Engineer  
-🛠️ I build systems, analyze data, and turn ideas into real projects  
+🎓 Electrical Engineering Student — University of the Witwatersrand
+📊 Aspiring Data Scientist & ML Engineer
+🛠️ I build systems, analyse data, and turn ideas into real projects
 
 I'm currently transitioning into **Machine Learning + Data Engineering**, combining:
-- Engineering problem-solving  
-- Data-driven thinking  
-- Real-world project building  
+- Engineering problem-solving
+- Data-driven thinking
+- Real-world project building
 
 ---
 
@@ -34,13 +34,19 @@ I'm currently transitioning into **Machine Learning + Data Engineering**, combin
 - Exploratory Data Analysis — 3 projects
 - Data Visualisation — 1 project
 - SQL Business Analysis — Supplement Sales project
+- Machine Learning — Regression, Classification, Clustering
+- Feature Engineering & Pipelines
+- End-to-End Portfolio Project — Employee Attrition ($13.9M business impact)
+- F1 Podium Prediction — Sports Analytics ML project
 - Intro to Machine Learning — Kaggle certified
+- Intermediate Machine Learning — Kaggle certified
 - Intro to SQL — Kaggle certified
 - Advanced SQL — Kaggle certified
+- Feature Engineering — Kaggle certified
 
 🔲 **In Progress**
-- Machine Learning with Scikit-learn
-- End-to-end portfolio project
+- Power BI — Business Intelligence Dashboards
+- Applying for remote junior data roles
 
 ---
 
@@ -59,6 +65,10 @@ I'm currently transitioning into **Machine Learning + Data Engineering**, combin
 
 ## 📂 Featured Projects
 
+### 🏆 Portfolio Projects
+- **Employee Attrition Analysis** — Identified $13.9M in attrition costs, predicted 31 at-risk employees using ML
+- **F1 Podium Prediction** — Sports analytics ML system predicting race podiums using FastF1 API
+
 ### 📊 Data Analysis & Visualisation
 - Supplement Sales — EDA, Visualisation & SQL Analysis
 - Movie Dataset EDA
@@ -72,8 +82,11 @@ I'm currently transitioning into **Machine Learning + Data Engineering**, combin
 - Messy E-Commerce Data Cleaning
 
 ### 🤖 Machine Learning
+- Employee Attrition Prediction — Logistic Regression & Random Forest
+- House Price Prediction — Linear Regression & Random Forest (R²: 0.895)
+- Customer Churn Prediction — Classification & Model Comparison
 - Customer Segmentation App — K-Means + Streamlit
-- Stock ML Prediction (in progress)
+- F1 Podium Prediction — Sports Analytics
 
 ### 💻 Applications
 - Weather App
@@ -86,8 +99,10 @@ I'm currently transitioning into **Machine Learning + Data Engineering**, combin
 ## 🏆 Certificates
 <p align="left">
   <img src="https://raw.githubusercontent.com/lk-nyoka/lk-nyoka/main/certificates/kaggle_intro_ml.png" width="370"/>
+  <img src="https://raw.githubusercontent.com/lk-nyoka/lk-nyoka/main/certificates/kaggle_intermediate_ml.png" width="370"/>
   <img src="https://raw.githubusercontent.com/lk-nyoka/lk-nyoka/main/certificates/kaggle_intro_sql.png" width="370"/>
   <img src="https://raw.githubusercontent.com/lk-nyoka/lk-nyoka/main/certificates/kaggle_advanced_sql.png" width="370"/>
+  <img src="https://raw.githubusercontent.com/lk-nyoka/lk-nyoka/main/certificates/kaggle_feature_engineering.png" width="370"/>
 </p>
 
 ---
