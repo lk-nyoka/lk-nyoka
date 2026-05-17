@@ -37,16 +37,23 @@ I'm currently transitioning into **Machine Learning + Data Engineering**, combin
 - Machine Learning — Regression, Classification, Clustering
 - Feature Engineering & Pipelines
 - End-to-End Portfolio Project — Employee Attrition ($13.9M business impact)
-- F1 Podium Prediction — Sports Analytics ML project
+- F1 Podium Prediction — Live Sports Analytics ML system
+- Stock Direction Classifier — Financial ML with backtesting and Sharpe Ratio
+- Air Quality Productivity Model — IoT sensor ML aligned with AirSynQ Systems
+- AirSynQ Streamlit Dashboard — Live deployed air quality monitoring app
+- Power BI — Employee Attrition Business Intelligence Dashboard
+- Excel — Bike Sales Interactive Dashboard
 - Intro to Machine Learning — Kaggle certified
 - Intermediate Machine Learning — Kaggle certified
 - Intro to SQL — Kaggle certified
 - Advanced SQL — Kaggle certified
 - Feature Engineering — Kaggle certified
+- Wren Annotation Onboarding — HumanSignal certified
 
 🔲 **In Progress**
-- Power BI — Business Intelligence Dashboards
 - Applying for remote junior data roles
+- AWS Cloud Practitioner
+- Web Scraping and Automation
 
 ---
 
@@ -68,9 +75,18 @@ I'm currently transitioning into **Machine Learning + Data Engineering**, combin
 
 ## 📂 Featured Projects
 
-### 🏆 Portfolio Projects
-- **Employee Attrition Analysis** — Identified $13.9M in attrition costs, predicted 31 at-risk employees using ML
-- **F1 Podium Prediction** — Sports analytics ML system predicting race podiums using FastF1 API
+### 🏆 Flagship Projects
+- **Employee Attrition Analysis** — Identified $13.9M in attrition costs, predicted 31 at-risk employees using ML, SQL and Power BI
+- **F1 Podium Prediction** — Live sports analytics ML system predicting race podiums using FastF1 API, updated every race weekend
+- **Stock Direction Classifier** — Financial ML project with XGBoost, backtesting and Sharpe Ratio evaluation across 4 assets
+- **AirSynQ Air Quality Dashboard** — Live Streamlit app predicting worker productivity from IoT sensor readings, aligned with AirSynQ Systems
+
+### 🤖 Machine Learning
+- Air Quality Impact on Worker Productivity — Linear Regression, XGBoost, CatBoost on UCI sensor data
+- House Price Prediction — Linear Regression & Random Forest Pipeline (R²: 0.895)
+- Customer Churn Prediction — Logistic Regression vs Decision Tree comparison
+- Customer Segmentation App — K-Means clustering deployed as Streamlit dashboard
+- Employee Attrition Prediction — Logistic Regression & Random Forest
 
 ### 📊 Data Analysis & Visualisation
 - Supplement Sales — EDA, Visualisation & SQL Analysis
@@ -84,12 +100,9 @@ I'm currently transitioning into **Machine Learning + Data Engineering**, combin
 - Cafe Sales Data Cleaning
 - Messy E-Commerce Data Cleaning
 
-### 🤖 Machine Learning
-- Employee Attrition Prediction — Logistic Regression & Random Forest
-- House Price Prediction — Linear Regression & Random Forest (R²: 0.895)
-- Customer Churn Prediction — Classification & Model Comparison
-- Customer Segmentation App — K-Means + Streamlit
-- F1 Podium Prediction — Sports Analytics
+### 📊 Business Intelligence
+- Employee Attrition — Power BI Dashboard with DAX measures and slicers
+- Bike Sales — Excel Interactive Dashboard with pivot tables and slicers
 
 ### 💻 Applications
 - Weather App
@@ -107,6 +120,8 @@ I'm currently transitioning into **Machine Learning + Data Engineering**, combin
   <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/Lindokuhle%20Nyoka%20-%20Intro%20to%20SQL.png" width="370"/>
   <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/Lindokuhle%20Nyoka%20-%20Advanced%20SQL.png" width="370"/>
 </p>
+
+---
 
 ## ⚡ Fun Fact
 I don't just learn — I **build and ship projects**.
