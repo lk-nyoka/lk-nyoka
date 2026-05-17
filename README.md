@@ -39,8 +39,7 @@ I'm currently transitioning into **Machine Learning + Data Engineering**, combin
 - End-to-End Portfolio Project — Employee Attrition ($13.9M business impact)
 - F1 Podium Prediction — Live Sports Analytics ML system
 - Stock Direction Classifier — Financial ML with backtesting and Sharpe Ratio
-- Air Quality Productivity Model — IoT sensor ML aligned with AirSynQ Systems
-- AirSynQ Streamlit Dashboard — Live deployed air quality monitoring app
+- Air Quality Productivity Model — IoT sensor ML with live Streamlit deployment
 - Power BI — Employee Attrition Business Intelligence Dashboard
 - Excel — Bike Sales Interactive Dashboard
 - Intro to Machine Learning — Kaggle certified
@@ -79,7 +78,7 @@ I'm currently transitioning into **Machine Learning + Data Engineering**, combin
 - **Employee Attrition Analysis** — Identified $13.9M in attrition costs, predicted 31 at-risk employees using ML, SQL and Power BI
 - **F1 Podium Prediction** — Live sports analytics ML system predicting race podiums using FastF1 API, updated every race weekend
 - **Stock Direction Classifier** — Financial ML project with XGBoost, backtesting and Sharpe Ratio evaluation across 4 assets
-- **AirSynQ Air Quality Dashboard** — Live Streamlit app predicting worker productivity from IoT sensor readings, aligned with AirSynQ Systems
+- **Air Quality & Productivity Dashboard** — [Live App](https://lk-nyoka-air-quality-impact-on-workplace-productivit-app-0fjtru.streamlit.app/) predicting worker productivity from IoT sensor readings
 
 ### 🤖 Machine Learning
 - Air Quality Impact on Worker Productivity — Linear Regression, XGBoost, CatBoost on UCI sensor data
