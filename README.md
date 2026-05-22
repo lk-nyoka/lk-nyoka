@@ -39,9 +39,11 @@ I'm currently transitioning into **Machine Learning + Data Engineering**, combin
 - End-to-End Portfolio Project — Employee Attrition ($13.9M business impact)
 - F1 Podium Prediction — Live Sports Analytics ML system
 - Stock Direction Classifier — Financial ML with backtesting and Sharpe Ratio
-- Air Quality Productivity Model — IoT sensor ML with live Streamlit deployment
+- Air Quality Productivity Dashboard — Live Streamlit deployment
 - Power BI — Employee Attrition Business Intelligence Dashboard
 - Excel — Bike Sales Interactive Dashboard
+- Deloitte Data Analytics Job Simulation — Forage certified
+- Commonwealth Bank Data Science Job Simulation — Forage certified
 - Intro to Machine Learning — Kaggle certified
 - Intermediate Machine Learning — Kaggle certified
 - Intro to SQL — Kaggle certified
@@ -50,9 +52,10 @@ I'm currently transitioning into **Machine Learning + Data Engineering**, combin
 - Wren Annotation Onboarding — HumanSignal certified
 
 🔲 **In Progress**
-- Applying for remote junior data roles
+- NLP and Sentiment Analysis
 - AWS Cloud Practitioner
 - Web Scraping and Automation
+- Applying for startup and junior data roles
 
 ---
 
@@ -102,6 +105,10 @@ I'm currently transitioning into **Machine Learning + Data Engineering**, combin
 ### 📊 Business Intelligence
 - Employee Attrition — Power BI Dashboard with DAX measures and slicers
 - Bike Sales — Excel Interactive Dashboard with pivot tables and slicers
+
+### 💼 Industry Simulations
+- Deloitte Australia — Data Analytics Job Simulation (Forage)
+- Commonwealth Bank — Introduction to Data Science Job Simulation (Forage)
 
 ### 💻 Applications
 - Weather App
