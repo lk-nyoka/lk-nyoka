@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 About Me
-🎓 Electrical Engineering Student — University of the Witwatersrand
+🎓 Electrical Engineering Student - University of the Witwatersrand
 📊 Aspiring Data Scientist & ML Engineer
 🛠️ I build systems, analyse data, and turn ideas into real projects
 
