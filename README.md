@@ -1,145 +1,112 @@
+<h1 align="center">Lindokuhle Nyoka</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Lindokuhle%20Nyoka&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-<p align="center">
-  <strong>Data Analyst | Machine Learning | Electrical Engineering</strong>
-</p>
-<p align="center">
-  <a href="https://github.com/lk-nyoka">
-    <img height="50" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/>
-  </a>
-  <a href="https://linkedin.com/in/lindokuhle-nyoka-a5b737413">
-    <img height="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
-  </a>
+  <strong>Data Analyst · Machine Learning · Electrical Engineering (Wits)</strong><br/>
+  Johannesburg, South Africa
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lk-nyoka&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20%2F%20Data%20Science%20Roles-brightgreen" alt="open to work"/>
+  <a href="https://linkedin.com/in/lindokuhle-nyoka-a5b737413"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:lindokuhle.nyoka03@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20%2F%20Data%20Science%20roles-2ea44f?style=for-the-badge" alt="Open to work"/>
 </p>
 
 ---
 
-## 🚀 About Me
+### About me
 
-🎓 Electrical & Electronic Engineering — University of the Witwatersrand *(2 years complete, resuming 2027)*
-📊 Data Analyst with a quantitative engineering foundation
-🛠️ I build end-to-end data projects — from raw data to deployed, decision-ready tools
+I build end-to-end data projects — from raw, messy data to a dashboard, model or app that someone can actually make a decision with. I have two years of Electrical & Electronic Engineering at the University of the Witwatersrand behind me (resuming 2027), and I bring that engineering habit of validating assumptions and quantifying impact to every project.
 
-I combine an engineering approach to problem-solving with data-driven thinking: quantifying business impact, validating assumptions before trusting them, and shipping projects that work outside a notebook.
-
-**Currently:** applying strong SQL, Python, and ML fundamentals to real business and engineering problems, while pursuing junior data analyst / data science opportunities.
-
----
-
-## 📊 Current Progress
-
-✅ **Completed**
-- End-to-End Portfolio Project — Employee Attrition Analysis ($13.9M quantified business impact)
-- F1 Podium Prediction — Live sports analytics ML system (FastF1 API, 90% accuracy, 100% podium recall)
-- Stock Direction Classifier — Financial ML with time-series-safe backtesting (XGBoost, AUC 0.692)
-- Air Quality & Productivity Dashboard — Live Streamlit deployment (R² 0.589)
-- House Price Prediction — Sklearn pipeline, R² improved from 0.80 → 0.895
-- Power BI — Employee Attrition Business Intelligence Dashboard (DAX, slicers)
-- Nzimande Wholesales — Python ETL, SQLite, Tableau BI pipeline with validated KPIs
-- SQL — HackerRank SQL (Basic) Certified
-- Machine Learning — Kaggle Certified (Intro + Intermediate ML, Feature Engineering)
-- SQL — Kaggle Certified (Intro + Advanced SQL)
-- Deloitte Australia — Data Analytics Job Simulation (Forage)
-- Wren Annotation Onboarding — HumanSignal Certified
-
-🔲 **In Progress**
-- Kaggle Playground Series S6E8 — Smartphone Addiction Prediction (LightGBM + XGBoost ensemble, targeting 0.973+ ROC AUC)
-- DataCo Global Supply Chain Analysis (180K+ rows)
-- ISTQB CTFL v4.0 — passed, positioning as a supporting QA/testing credential
-- Applying for junior data analyst / data science roles (South Africa-focused)
+- 🏆 **3rd place — MTN MoMo Open API Hackathon (Sept 2026)** with *Kusasa*, a micro-savings app for cash-heavy markets
+- 🤖 **AI Data Annotator** at HumanSignal (DataForce by TransPerfect) — evaluating production AI outputs
+- 🎓 Kaggle (ML, Feature Engineering, SQL) · HackerRank SQL · Deloitte & Commonwealth Bank job simulations
+- 🏃 Founder of **Vuka Runners**, a community running club in Braamfontein
 
 ---
 
-## 🧰 Tech Stack
+### Featured projects
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+| Project | What it does | Stack |
+|---|---|---|
+| [**Employee Attrition Analysis**](https://github.com/lk-nyoka/Employee-Attrition-Analysis) | Quantified **$13.9M** in attrition cost across 1,470 employees; model (89.5% accuracy) flags 31 at-risk staff worth $544K in preventable cost. Paired with a [Power BI dashboard](https://github.com/lk-nyoka/Employee-Attrition-Dashboard-Power-BI-). | Python · SQL · scikit-learn · Power BI |
+| [**Nzimande Wholesales BI Pipeline**](https://github.com/lk-nyoka/nzimande-wholesales-bi) | Raw CSV → Python ETL → SQLite → Tableau executive dashboard. Caught a **609-row** data-quality issue before it corrupted five KPIs. | Python · SQL · SQLite · Tableau |
+| [**Banking Transaction Lakehouse**](https://github.com/lk-nyoka/banking-transaction-lakehouse) | Medallion (bronze/silver/gold) pipeline with quality gates, a quarantine layer and **SCD Type 2** history. | Databricks · PySpark · Delta Lake |
+| [**F1 Podium Prediction**](https://github.com/lk-nyoka/F1-Race-Predictions) | Predicts Grand Prix podiums from live qualifying data — **90% accuracy, 100% podium recall**; called all 3 Miami GP podium finishers. | Python · FastF1 API · scikit-learn |
+| [**Shosholoza Trail**](https://github.com/lk-nyoka/shosholoza-trail) | Hackathon build: a 3D, offline-capable companion app for the Pretoria–Cape Town rail journey with attractions, local vendors and live journey status. | React · TypeScript · Three.js · FastAPI |
+| [**Air Quality & Productivity**](https://github.com/lk-nyoka/Air-Quality-Impact-on-Workplace-Productivity) | Predicts workplace productivity from IoT air-quality sensors — [**live Streamlit app**](https://lk-nyoka-air-quality-impact-on-workplace-productivit-app-0fjtru.streamlit.app/). | Python · CatBoost · XGBoost · Streamlit |
+| [**GovBridge**](https://github.com/lk-nyoka/GovBridge) | Hackathon prototype: a security-first platform that gets civic-tech proposals in front of government reviewers faster. | React · TypeScript · Supabase |
+| [**Stock Direction Classifier**](https://github.com/lk-nyoka/Stock-Direction-Classifier-Equity-Signal-Model) | XGBoost on 20+ years of AAPL, TSLA, AMZN & S&P 500 with 10 technical indicators and time-series-safe backtesting. | Python · XGBoost · pandas |
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/></td>
-  </tr>
-</table>
+<details>
+<summary><strong>More machine learning & analysis projects</strong></summary>
+
+<br/>
+
+**Machine learning**
+- [House Price Prediction](https://github.com/lk-nyoka/House-Price-Prediction-Linear-Regression) — feature engineering + sklearn pipeline, R² 0.80 → 0.895, MAE $24.9K → $18.2K
+- [Customer Churn Prediction](https://github.com/lk-nyoka/Customer-Churn-Prediction) — Logistic Regression vs Decision Tree on 7,043 telco customers
+- [Customer Segmentation](https://github.com/lk-nyoka/Customer-Segmentation-K-Means-Clustering) — K-Means personas from customer personality and spending data
+- [Stock Prediction with SVM](https://github.com/lk-nyoka/Stock-ML-Prediction) — SVM kernels compared, with a strategy-vs-market backtest
+
+**Data analysis & BI**
+- [Supplement Sales Analysis](https://github.com/lk-nyoka/Supplement-Sales-EDA) — EDA, visual storytelling and SQL on 4,384 weekly sales rows (2020–2025)
+- [E-Commerce Sales & Profit](https://github.com/lk-nyoka/E-Commerce-Sales-And-Profit-Analysis) — independent EDA across 3,500 orders and four regions
+- [Bike Sales Dashboard](https://github.com/lk-nyoka/Bike-Sales-Dashboard) — interactive Excel dashboard with slicers
+- [Movie Dataset EDA](https://github.com/lk-nyoka/Movie-Dataset-Exploratory-Data-Analysis)
+
+**Data cleaning**
+- [Messy E-Commerce Sales](https://github.com/lk-nyoka/Messy-E-Commerce-Sales) · [Retail Store Sales](https://github.com/lk-nyoka/Retail-Store-Sales-Data-Cleaning) · [Cafe Sales](https://github.com/lk-nyoka/Cafe-Sales-Data-Cleaning) · [NYC Airbnb](https://github.com/lk-nyoka/NYC-Airbnb-Data-Cleaning)
+
+**SQL & software**
+- [Library Management DB](https://github.com/lk-nyoka/library-management-sql) · [Hospital Records DB](https://github.com/lk-nyoka/hospital-management-system)
+- [Load-Shedding Alerts (Flask)](https://github.com/lk-nyoka/loadshedding-flask-app) · [Weather App](https://github.com/lk-nyoka/Weather-App) · [Calculator App](https://github.com/lk-nyoka/Calculator-App)
+
+</details>
 
 ---
 
-## 📈 GitHub Stats
+### Tech stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lk-nyoka&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lk-nyoka&layout=compact&hide_border=true" width="30%"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lk-nyoka&hide_border=true" width="60%"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-006ACC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
 
-## 📂 Featured Projects
+### Certifications
 
-### 🏆 Flagship Projects
-- **Employee Attrition Analysis** — Quantified $13.9M in attrition costs across 1,470 employee records; Logistic Regression & Random Forest (89.5% accuracy) flagged 31 at-risk employees representing $544K in preventable cost. Backed by SQL analysis and a Power BI dashboard.
-- **F1 Race Podium Prediction System** — Live sports analytics pipeline pulling 1,904 driver-race records via the FastF1 API (2022–2026). 90% accuracy, 100% podium recall — correctly called all 3 Miami GP podium finishers on live qualifying data.
-- **Nzimande Wholesales BI Pipeline** — Full ETL-to-dashboard pipeline (Python, SQLite, Tableau) with 5 validated KPIs. Caught and corrected a 609-row data quality issue before it reached the dashboard.
-- **Air Quality & Productivity Dashboard** — [Live App](https://lk-nyoka-air-quality-impact-on-workplace-productivit-app-0fjtru.streamlit.app/) predicting worker productivity from IoT sensor readings, deployed on Streamlit.
+| Certification | Issuer |
+|---|---|
+| Intro to ML · Intermediate ML · Feature Engineering | Kaggle |
+| Intro to SQL · Advanced SQL | Kaggle |
+| SQL (Basic) | HackerRank |
+| Data Analytics Job Simulation | Deloitte Australia (Forage) |
+| Introduction to Data Science Job Simulation | Commonwealth Bank (Forage) |
+| ISTQB Certified Tester Foundation Level v4.0 | ISTQB |
+| Wren Annotation Onboarding | HumanSignal |
 
-### 🤖 Machine Learning
-- **Stock Direction Classifier** — XGBoost binary classifier on AAPL, TSLA, AMZN & S&P 500 (20+ years of data, 10 technical indicators); chronological train/test split with backtesting against buy-and-hold.
-- **House Price Prediction** — Sklearn pipeline with engineered features (TotalSF, HouseAge, QualityArea); R² improved from 0.80 → 0.895, MAE reduced from $24,936 → $18,225.
-- **Air Quality Impact on Worker Productivity** — Linear Regression, Random Forest, XGBoost & CatBoost compared on UCI sensor data.
-- **Smartphone Addiction Prediction (Kaggle S6E8)** — LightGBM + XGBoost ensemble, currently targeting 0.973+ ROC AUC.
-
-### 📊 Data Analysis, BI & Engineering
-- **DataCo Global Supply Chain Analysis** — Fulfillment and profitability insights across 180K+ rows.
-- **Banking Transaction Lakehouse** — Medallion architecture (bronze/silver/gold) on Databricks + PySpark + Delta Lake, with SCD Type 2 and a quality-gate/quarantine layer.
-- **Employee Attrition — Power BI Dashboard** — DAX measures, dynamic slicers for non-technical stakeholders.
-
-### 💼 Industry Simulations & Certifications
-- Deloitte Australia — Data Analytics Job Simulation (Forage)
-- HackerRank — SQL (Basic) Certified
-- Kaggle — Intro/Advanced SQL, Intro/Intermediate ML, Feature Engineering
-- Wren Annotation Onboarding — HumanSignal
+Certificates are in [**My-Certificates**](https://github.com/lk-nyoka/My-Certificates).
 
 ---
 
-## 🏆 Certificates
-<p align="left">
-  <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/Lindokuhle%20Nyoka%20-%20Intro%20to%20Machine%20Learning.png" width="370"/>
-  <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/Lindokuhle%20Nyoka%20-%20Intermediate%20Machine%20Learning.png" width="370"/>
-  <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/Lindokuhle%20Nyoka%20-%20Feature%20Engineering.png" width="370"/>
-  <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/Lindokuhle%20Nyoka%20-%20Intro%20to%20SQL.png" width="370"/>
-  <img src="https://raw.githubusercontent.com/lk-nyoka/My-Certificates/main/Lindokuhle%20Nyoka%20-%20Advanced%20SQL.png" width="370"/>
-</p>
+### Currently working on
 
----
+- Kaggle Playground Series S6E8 — LightGBM + XGBoost ensemble
+- DataCo global supply-chain analysis (180K+ rows)
 
-## ⚡ Fun Fact
-I don't just learn — I **build, quantify, and ship**. Every project on this profile ends in a number that means something to a business.
-
----
+<p align="center"><em>I don't just learn — I build, quantify and ship. Every project here ends in a number that means something to a business.</em></p>
 
 ![Snake animation](https://github.com/lk-nyoka/lk-nyoka/blob/output/github-contribution-grid-snake.svg)
